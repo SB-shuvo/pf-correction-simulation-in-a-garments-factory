@@ -5,5 +5,7 @@ This is a simple simulink project demonstrating the effect of adding capacitive 
 
 Additionally the time by which the money invested on buying capacitors eventually pays off was also calculated.
 
+Project presentation video can be found in this youtube video: https://youtu.be/3wRPRrqwIYQ
+
 ## Required add-ons on MATLAB
 Simscape Electrical with Simulink
